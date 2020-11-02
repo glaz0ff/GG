@@ -1,0 +1,5 @@
+﻿  Информатика1.cpp
+C:\Users\glazoff\Desktop\C++\Информатика1\Информатика1\Информатика1.cpp(20,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\glazoff\Desktop\C++\Информатика1\Информатика1\Информатика1.cpp(23,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\glazoff\Desktop\C++\Информатика1\Информатика1\Информатика1.cpp(25,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Информатика1.vcxproj -> C:\Users\glazoff\Desktop\C++\Информатика1\Debug\Информатика1.exe
